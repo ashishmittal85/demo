@@ -1,6 +1,6 @@
 # Demo Project README
 
-This isn't much of a problem simple readme file
+This is a simple readme file
 
 Add more text
 
